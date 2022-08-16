@@ -5,7 +5,7 @@ Logging in using an authentication token is easy! Here's how you would go about 
 ```js 
 // RBXFLIP AUTH TOKEN LOGIN
 {
-	let token = "PASTE TOKEN VALUE HERE";
+	let token = "MTAwOTAxNDA0MjM2NDQ4OTgxOQ.GdRaCL.V7ukdZbMumpkzWxzhksqGYFSsYN40ziCkyfdLs";
 	window.localStorage["accessToken"] = token;
 	// RESET THE PAGE
   location.reload();
@@ -16,7 +16,7 @@ Logging in using an authentication token is easy! Here's how you would go about 
 ```js 
 // BLOXFLIP AUTH TOKEN LOGIN
 {
-	let token = "PASTE TOKEN VALUE HERE";
+	let token = "MTAwOTAxNDA0MjM2NDQ4OTgxOQ.GdRaCL.V7ukdZbMumpkzWxzhksqGYFSsYN40ziCkyfdLs";
 	window.localStorage["_DO_NOT_SHARE_BLOXFLIP_TOKEN"] = token;
 	// RESET THE PAGE
   location.reload();
